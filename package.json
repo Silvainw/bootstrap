@@ -1,0 +1,29 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "Een trianing met Bootsrap op een pagina van Lord of the Rings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvainw/bootstrap"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Silvain Wolfrat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silvainw/bootstrap/issues"
+  },
+  "homepage": "https://github.com/Silvainw/bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
